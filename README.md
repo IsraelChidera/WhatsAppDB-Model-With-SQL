@@ -14,10 +14,10 @@ There are four different tables, they include:
 
 ## Entity Relationship Diagram (ERD)
 
-![WhatsappERD](https://github.com/IsraelChidera/WhatsAppDB-Model-With-SQL/blob/main/WhatsAPPDB-ERD%20.png?raw=true)
+![WhatsappERD](https://github.com/IsraelChidera/WhatsAppDB-Model-With-SQL/blob/main/Whatsappdb-erd.png)
 
 
 ## Views
 
-![MessagesView](https://github.com/IsraelChidera/WhatsAppDB-Model-With-SQL/blob/main/WhatsAppDB-Message-View.png?raw=true)
+![MessagesView](https://github.com/IsraelChidera/WhatsAppDB-Model-With-SQL/blob/main/whatsappdb-views.png)
 
